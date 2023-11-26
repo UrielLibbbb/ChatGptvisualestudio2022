@@ -1,0 +1,72 @@
+# .gitignore para proyectos generales (Visual Studio, archivos de compilación, etc.)
+
+# Carpeta de salida binaria, también ignora el contenido generado
+bin/
+obj/
+
+# Carpeta de archivos temporales que se generan durante la compilación
+[Oo]ut/
+
+# Carpeta de archivos temporales que se generan durante la compilación
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Carpeta para archivos de usuario específicos de un entorno
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpeta de caché de Resharper
+_ReSharper*/
+
+# Carpeta de archivos de caché de Visual Studio
+[Dd]esigner[Aa]ssets/
+
+# Carpeta de archivos de caché de Rider
+.idea/
+
+# Carpeta de archivos de caché de Visual Studio Code
+.vscode/
+
+# Carpeta de archivos de caché de NuGet
+*.nuget/
+
+# Carpeta de archivos de caché de Windows Installer
+[Tt]humbs.db
+[Ll]og/
+[Ll]ogs/
+
+# Archivos y carpetas que deberían estar ignorados en proyectos .NET
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+[Pp]ackages/
+[Tt]emp/
+[Vv]isual[Ss]tudio[Ss]tate/
+[Bb]uild/
+
+# Archivos de caché de Rider
+.idea/
+
+# Carpeta de archivos de caché de Rider
+.idea/
+
+# Archivos de caché de Rider
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Archivos de caché de Rider
+*.user
+*.suo
+*.user
+
+# Archivos de caché de Rider
+*.suo
+*.user
